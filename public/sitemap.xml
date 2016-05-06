@@ -3,7 +3,13 @@
   
   <url>
     <loc>http://nanairo1.github.io/hugoblog/</loc>
+    <lastmod>2016-05-05T16:53:53+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nanairo1.github.io/hugoblog/post/hello/</loc>
+    <lastmod>2016-05-05T16:53:53+09:00</lastmod>
   </url>
   
 </urlset>
