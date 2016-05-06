@@ -1,3 +1,13 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://nanairo1.github.io/hugoblog"
+languageCode = "ja-jp"
+title = "ShihoShoshi Matsumiya"
+theme = "hyde"
+canonifyurls = true
+
+[params]
+  description = "This is yourblog"
+  author = "your name"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
